@@ -19,7 +19,7 @@ Explore these amazing projects and demos that showcase the power of the Ansipixe
 
 The library itself includes various demos like brick breaker, Conway's Game of Life, and more.
 
-**Repository:** [fortio/terminal](https://github.com/fortio/terminal/#fortioorgterminalansipixels)
+**Repository:** [fortio/terminal](https://github.com/fortio/terminal/#ansipixels)
 
 ![Terminal Library Demos](https://raw.githubusercontent.com/fortio/terminal/main/brick.png)
 *Brick breaker game running in your terminal*
@@ -87,12 +87,9 @@ A nostalgic tribute to the Commodore 64 with a multicolor maze generator and sol
 
 ### 💚 TMatrix - Matrix Digital Rain
 
-Experience the iconic Matrix-style digital rain effect in your terminal.
+Experience the iconic Matrix-style digital rain effect in your terminal. Watch cascading green characters fall down your screen, recreating the classic visual from the Matrix movies. Fully customizable with different speeds, densities, and character sets.
 
 **Repository:** [fortio/tmatrix](https://github.com/fortio/tmatrix#tmatrix)
-
-![TMatrix](https://img.shields.io/badge/matrix-digital%20rain-green?style=for-the-badge)
-*The Matrix digital rain effect*
 
 ---
 
