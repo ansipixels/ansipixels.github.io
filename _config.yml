@@ -1,0 +1,26 @@
+# Jekyll configuration for ansipixels.github.io
+
+# Site settings
+title: Ansipixels
+description: >- # this means to ignore newlines until "baseurl:"
+  Terminal UI library and awesome demos showcasing ANSI pixel art,
+  games, and utilities in your terminal.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://ansipixels.github.io" # the base hostname & protocol for your site
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Social links (optional)
+github_username: ansipixels
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - .git
+  - .gitignore
+  - README.md
