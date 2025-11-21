@@ -13,11 +13,6 @@ theme: minima
 plugins:
   - jekyll-feed
 
-# Minima specific settings
-minima:
-  skin: auto # Enables automatic dark/light mode based on system preference
-  # Other options: dark, solarized-dark, solarized-light, classic
-
 # Social links (optional)
 github_username: ansipixels
 

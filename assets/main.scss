@@ -1,0 +1,76 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+/* Dark mode support using CSS media query */
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #1a1a1a;
+    color: #e0e0e0;
+  }
+
+  .site-header {
+    background-color: #2d2d2d;
+    border-bottom: 1px solid #404040;
+  }
+
+  .site-title,
+  .site-title:visited {
+    color: #e0e0e0;
+  }
+
+  .site-nav .page-link {
+    color: #e0e0e0;
+  }
+
+  .page-content {
+    background-color: #1a1a1a;
+  }
+
+  .post-content h1,
+  .post-content h2,
+  .post-content h3,
+  .post-content h4,
+  .post-content h5,
+  .post-content h6 {
+    color: #f0f0f0;
+  }
+
+  .page-heading {
+    color: #f0f0f0;
+  }
+
+  a {
+    color: #58a6ff;
+  }
+
+  a:visited {
+    color: #8e96f0;
+  }
+
+  a:hover {
+    color: #79c0ff;
+  }
+
+  code,
+  pre {
+    background-color: #2d2d2d;
+    border: 1px solid #404040;
+    color: #e0e0e0;
+  }
+
+  .site-footer {
+    background-color: #2d2d2d;
+    border-top: 1px solid #404040;
+  }
+
+  .footer-heading {
+    color: #e0e0e0;
+  }
+
+  hr {
+    border-color: #404040;
+  }
+}
